@@ -1,3 +1,6 @@
+Name: Sukhpreet Singh
+Student Number: 100416608
+
 My project is an application called "Easy-Notes". This application will be designed to help the user make notes and do other basic tasks. One can also make To-do lists or wishlists in this app. It uses various functions like copy-paste and edit or delete. You can access your notes anytime you want and also you can share them with your friends or colleagues. It can work on both PC and Smartphone. To create a new note all you need to do is open the application and click "create" button the you can type your note and add various forms of graphics in it and the you can even share it on social media.
 
 Following are some basic functions of my application:
